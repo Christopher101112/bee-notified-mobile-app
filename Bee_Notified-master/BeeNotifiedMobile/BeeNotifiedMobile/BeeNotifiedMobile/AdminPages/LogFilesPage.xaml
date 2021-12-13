@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="View Log Files"
+             x:Class="BeeNotifiedMobile.LogFilesPage">
+    <ContentPage.Content>
+      <ScrollView>
+      <StackLayout Spacing ="20">
+        <StackLayout Orientation="Horizontal" Spacing ="30" HorizontalOptions="Center">
+
+          <!--<Picker x:Name ="rolepicker"
+                  Title ="Select Role" SelectedIndexChanged="OnSelect">
+            <Picker.Items>
+              <x:String>Client</x:String>
+              <x:String>Job Coach</x:String>
+            </Picker.Items>
+          </Picker>-->
+          
+          <Picker x:Name ="userpicker" 
+                  Title ="Select Client Profile"  >
+          </Picker>
+          
+          <Picker x:Name ="datatypepicker"
+                  Title ="Select Data Type" >
+            <Picker.Items>
+              <x:String>Alerts</x:String>
+              <x:String>Events</x:String>
+              <x:String>Messages</x:String>
+            </Picker.Items>
+          </Picker>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="50">
+          
+          <StackLayout Orientation="Horizontal">
+            <Label Text ="From:"/>
+            <DatePicker x:Name ="fromDate" MinimumDate="04/24/2018"
+                        MaximumDate="12/31/2100" />
+          </StackLayout>
+
+          <StackLayout Orientation="Horizontal">
+            <Label Text ="To:"/>
+            <DatePicker x:Name="toDate" MinimumDate="04/24/2018"
+                        MaximumDate="12/31/2100" />
+          </StackLayout>
+          
+          </StackLayout>
+
+        <Button Text="Review"
+            HorizontalOptions="Center"
+            Clicked="ReviewClicked" />
+
+        <ListView x:Name="logfile" HorizontalOptions="Center">
+          <ListView.ItemTemplate>
+            <DataTemplate>
+              <TextCell Text="{Binding Subject}" Detail="{Binding DateStamp, StringFormat='{0:MM/dd hh:mm tt}'}"/>
+            </DataTemplate>
+          </ListView.ItemTemplate>
+
+        </ListView>
+        
+      </StackLayout>
+      </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

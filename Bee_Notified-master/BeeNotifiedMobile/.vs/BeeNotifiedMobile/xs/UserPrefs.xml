@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4DCEBA2C-1CF7-4A41-9EBB-3C84BF2ACF1A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BeeNotifiedMobile/BeeNotifiedMobile/SharedPages/LoginPage.xaml.cs">
+    <Files>
+      <File FileName="BeeNotifiedMobile/BeeNotifiedMobile.iOS/Main.cs" Line="17" Column="59" />
+      <File FileName="BeeNotifiedMobile/BeeNotifiedMobile/SharedPages/LoginPage.xaml.cs" Line="151" Column="1" />
+      <File FileName="BeeNotifiedMobile/BeeNotifiedMobile/SharedPages/locsamppage.xaml.cs" Line="8" Column="1" />
+      <File FileName="BeeNotifiedMobile/BeeNotifiedMobile/SharedPages/locsamppage.xaml" Line="1" Column="1" />
+      <File FileName="BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.csproj" />
+      <File FileName="BeeNotifiedMobile/BeeNotifiedMobile/UserEntityCreation/UserEntityManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BeeNotifiedMobile" expanded="True">
+            <Node name="BeeNotifiedMobile" expanded="True">
+              <Node name="SharedPages" expanded="True">
+                <Node name="locsamppage.xaml" expanded="True" />
+                <Node name="LoginPage.xaml" expanded="True">
+                  <Node name="LoginPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="BeeNotifiedMobile.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BeeNotifiedMobile.Android PreferredExecutionTarget="Android.phone_l-dpi_2_7in_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BeeNotifiedMobile.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AB130FB6-9657-4EF5-B79A-DE2468596505" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

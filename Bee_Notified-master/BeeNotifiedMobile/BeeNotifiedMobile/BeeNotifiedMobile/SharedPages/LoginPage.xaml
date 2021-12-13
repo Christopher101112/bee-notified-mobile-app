@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BeeNotifiedMobile.LoginPage"
+             NavigationPage.HasNavigationBar="false"
+             >
+  <!--xmlns:ffimageloadingsvg="clr-
+             namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms"
+             xmlns:ffimageloadingsvg1="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms"-->
+
+  <!--<ContentPage.Content>-->
+  <ScrollView>
+    <StackLayout Spacing="20">
+
+      <Image Source="logoName.png" HorizontalOptions="FillAndExpand"/>
+      <!--<ffimageloadingsvg1:SvgCachedImage WidthRequest="100" HeightRequest="100" 
+                Source="resource://BeeNotifiedMobile.Resources.name.svg"/>-->
+      <Label Text="Login Page "
+         HorizontalOptions="Center"/>
+      <Entry x:Name="username" Placeholder="Username "
+             HorizontalOptions="Center"/>
+      <Entry x:Name="password" Placeholder="Password" IsPassword="true"
+             HorizontalOptions="Center"/>
+      <Button Text="Log In"
+          HorizontalOptions="Center"
+          Clicked="OnLoginButtonClicked" />
+      <Picker x:Name="portalpicker"
+        HorizontalOptions="Center" Title="Select Portal  ">
+        <Picker.Items>
+          <x:String>Client</x:String>
+          <x:String>Job Coach</x:String>
+          <x:String>Administrator</x:String>
+        </Picker.Items>
+      </Picker>
+
+    </StackLayout>
+  </ScrollView>
+  <!--</ContentPage.Content>-->
+</ContentPage>

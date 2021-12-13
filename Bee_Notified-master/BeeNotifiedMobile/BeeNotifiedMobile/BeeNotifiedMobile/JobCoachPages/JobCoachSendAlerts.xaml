@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 	xmlns="http://xamarin.com/schemas/2014/forms" 
+				xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+				x:Class="BeeNotifiedMobile.JobCoachSendAlerts"
+				Title="Direct Alert Portal">
+  <Grid RowSpacing="0">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="*" />
+    </Grid.RowDefinitions>
+    <ActivityIndicator Grid.RowSpan="2"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center"
+                       IsVisible="False"
+                       IsEnabled="True"
+                       x:Name="syncIndicator"/>
+    <StackLayout Grid.Row="0" BackgroundColor="#5ABAFF" Padding="10,30,10,5">
+      
+      <Label TextColor="#555555" Text="Send a direct alert" />
+      <Grid>
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition/>
+          <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Entry x:Name="newItemName"
+                  Placeholder="Enter alert text" />
+        <StackLayout x:Name="buttonsPanel" Grid.Column="1" Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+          <Button Text="Send"
+                  MinimumHeightRequest="30"
+                  Clicked="OnAdd" />
+        </StackLayout>
+      </Grid>
+    </StackLayout>
+    <ListView x:Name="todoList"
+				ItemSelected="OnSelected"
+				IsPullToRefreshEnabled="true" Refreshing="OnRefresh"
+				Grid.Row="1">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <TextCell Text="{Binding Name}" Detail="{Binding CreatedAt, StringFormat='{0:MM/dd hh:mm tt}'}"/>
+          <!--<ViewCell>
+            <ViewCell.ContextActions>
+              <MenuItem Clicked="OnComplete" Text="Complete" CommandParameter="{Binding .}"/>
+            </ViewCell.ContextActions>
+            <StackLayout HorizontalOptions="StartAndExpand" Orientation="Horizontal" Padding="15,5,0,0">
+              <StackLayout Padding="5,0,0,0" VerticalOptions="StartAndExpand" Orientation="Vertical">
+                <Label Text="{Binding Name}"  />
+              </StackLayout>
+            </StackLayout>
+          </ViewCell>-->
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </Grid>
+</ContentPage>

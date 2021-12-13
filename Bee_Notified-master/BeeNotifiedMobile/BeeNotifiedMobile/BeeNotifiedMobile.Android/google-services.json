@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "590427505975",
+    "firebase_url": "https://beenotifiednotifications.firebaseio.com",
+    "project_id": "beenotifiednotifications",
+    "storage_bucket": "beenotifiednotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590427505975:android:e5d33b324ad1a206",
+        "android_client_info": {
+          "package_name": "com.livingresources.beenotified"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590427505975-2isbllile6prnug1j3dq7k911d1lmsij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoms6rI32sL8ou_tzx8PE_Ga_rgRiX0FE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

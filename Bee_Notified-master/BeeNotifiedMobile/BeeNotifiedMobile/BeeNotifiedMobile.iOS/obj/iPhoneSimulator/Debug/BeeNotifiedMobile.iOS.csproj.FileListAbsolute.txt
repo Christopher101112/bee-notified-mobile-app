@@ -1,0 +1,420 @@
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.exe
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.iOS.Bindings.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Push.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Push.iOS.Bindings.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Client.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/SkiaSharp.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Validation.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/WebP.Touch.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Platform.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Platform.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Platform.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Platform.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Forms.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Forms.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.dll
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.dll.mdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.csproj.CoreCompileInputs.cache
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.csproj.CopyComplete
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.exe
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.pdb
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.8-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.8-12.1/actool/_PartialAppManifest.items
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.8-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.8-12.1/coremlc/_PartialAppManifest.items
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.8-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipad6.8-12.1/optimized/
+/Users/jorge/Desktop/BeeNotified/TeamJED/Bee_Notified.git/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.csprojAssemblyReference.cache
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.exe
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.iOS.Bindings.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Push.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Push.iOS.Bindings.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Client.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/SkiaSharp.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Validation.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/WebP.Touch.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Platform.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Platform.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Platform.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Platform.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Forms.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Forms.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.dll
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.pdb
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/optimized/
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.csprojAssemblyReference.cache
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.csproj.CoreCompileInputs.cache
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.csproj.CopyComplete
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.exe
+C:/Bee_Notified/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/optimized/
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.csprojAssemblyReference.cache
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.csproj.CoreCompileInputs.cache
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.exe
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.iOS.Bindings.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Push.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Push.iOS.Bindings.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Client.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/SkiaSharp.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Licensing.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.iOS.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfCalendar.XForms.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfCalendar.XForms.iOS.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Validation.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/WebP.Touch.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Platform.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Platform.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Platform.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Platform.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Forms.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Forms.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.dll
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.csproj.CopyComplete
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.exe
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.pdb
+C:/dev/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.dll.mdb
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.csprojAssemblyReference.cache
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.csproj.CoreCompileInputs.cache
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.exe
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.pdb
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.exe
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.pdb
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PlacesSearchBar.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Humanizer.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/af/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ar/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/az/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/bg/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/bn-BD/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/cs/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/da/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/de/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/el/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/es/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/fa/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/fi-FI/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/fr/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/fr-BE/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/he/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hr/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hu/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hy/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/id/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/it/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ja/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/lv/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ms-MY/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/mt/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/nb/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/nb-NO/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/nl/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pl/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pt/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ro/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ru/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sk/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sl/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sr/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sr-Latn/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sv/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/tr/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/uk/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/uz-Latn-UZ/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/vi/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-CN/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Humanizer.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.iOS.Bindings.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Push.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.AppCenter.Push.iOS.Bindings.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Client.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Microsoft.Azure.Mobile.Client.SQLiteStore.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/MvvmHelpers.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/MvvmHelpers.pdb
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.nativelibrary.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Licensing.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Syncfusion.Core.XForms.iOS.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfCalendar.XForms.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Syncfusion.SfCalendar.XForms.iOS.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/System.Buffers.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/System.Memory.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Validation.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Plugin.DeviceInfo.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Plugin.DeviceInfo.pdb
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.pdb
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/bin/iPhoneSimulator/Debug/BeeNotifiedMobile.dll.mdb
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/BeeNotifiedMobile.iOS.csproj.CopyComplete
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_PartialAppManifest.items
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_BundleResourceWithLogicalName.items
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_PartialAppManifest.items
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/newSplash.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-20x20@1x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-20x20@2x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-20x20@3x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-29x29@1x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-29x29@2x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-29x29@3x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-40x40@1x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-40x40@2x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-40x40@3x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-60x60@2x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-60x60@3x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-76x76@1x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-76x76@2x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/AppIcon.appiconset/ItunesArtwork@2x.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/Images/logoName.png
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/

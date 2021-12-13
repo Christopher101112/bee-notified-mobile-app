@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<!--This is the color backgroud if the splash screen doesnt show-->
+<!--"@android:color/white"-->
+    <item>
+        <color android:color="#91FFFF"/>
+    </item>
+    <item android:width="150dp" android:height="150dp" android:gravity="center">
+        <bitmap android:src="@drawable/big_logo"/>
+    </item>
+</layer-list>

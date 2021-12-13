@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BeeNotifiedMobile.JobCoachMainPage">
+  <!--xmlns:ffimageloadingsvg="clr-
+              namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms"
+              xmlns:ffimageloadingsvg1="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms">-->
+  <StackLayout Spacing="20">
+    <Image Source="logoName.png" HorizontalOptions="FillAndExpand"/>
+    <!--<ffimageloadingsvg1:SvgCachedImage WidthRequest="50" HeightRequest="50"
+            Source="resource://BeeNotifiedMobile.Resources.name.svg"/>-->
+    <Label Text=""
+            HorizontalOptions="Center"/>
+    <Picker x:Name ="userpicker" Title ="Select client" SelectedIndexChanged="OnSelect" HorizontalOptions="Center" ></Picker>
+    <Button Text="Calendar"
+            HorizontalOptions="Center"
+            Clicked="OnJCCalBtnClick" />
+    <Button Text="Messages"
+            HorizontalOptions="Center"
+            Clicked="OnJCMesBtnClick" />
+    <Button Text="Alerts"
+            HorizontalOptions="Center"
+            Clicked="OnJCAleBtnClicked" />
+    <Button Text="Location Request"
+            HorizontalOptions="Center"
+            Clicked="OnLocBtnClicked" />
+     <Button Text="Add Employee"
+            HorizontalOptions="Center"
+            Clicked="OnEmplBtnClicked" />
+  </StackLayout>
+</ContentPage>

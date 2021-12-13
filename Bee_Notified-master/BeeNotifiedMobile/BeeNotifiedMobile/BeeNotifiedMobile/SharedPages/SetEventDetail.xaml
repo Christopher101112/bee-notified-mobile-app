@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BeeNotifiedMobile"
+             x:Class="BeeNotifiedMobile.SetEventDetail"
+             Title = "Calendar Entry">
+  <ScrollView>
+    <StackLayout Spacing ="20">
+
+
+      <Entry x:Name="_entry"
+             Placeholder="Enter event name" />
+      <Label x:Name ="_dateTimeLabel"/>
+      <Label Text="Select the time below to be reminded at." />
+      <TimePicker x:Name="_timePicker"
+                  Time="12:00:00"
+                  Format="T"/>
+      <!--PropertyChanged="OnTimePickerPropertyChanged"-->
+
+      <Entry x:Name="_location"
+             Text ="{Binding viewModel}"
+             Placeholder ="Location"
+             Focused = "OnLocFocused">
+        <Entry.BindingContext>
+          <local:LocViewModel />
+        </Entry.BindingContext>
+      </Entry>
+
+      <!--<Button Text="Set Location"
+            HorizontalOptions="Center"
+            Clicked="OnLocBtnClick" />-->
+
+      <Button Text="Add Event"
+                  HorizontalOptions="Center"
+                  Clicked="OnAddBtnClick" />
+      <Button Text="Cancel"
+                  HorizontalOptions="Center"
+                  Clicked="OnCancelBtnClick" />
+      <!--<StackLayout Orientation="Horizontal">
+      <Label Text="Enable timer:" />
+      
+    </StackLayout>-->
+
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

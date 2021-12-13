@@ -1,0 +1,236 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\BeeNotified\\Bee_Notified-master\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile.UWP\\BeeNotifiedMobile.UWP.csproj": {}
+  },
+  "projects": {
+    "C:\\BeeNotified\\Bee_Notified-master\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile.UWP\\BeeNotifiedMobile.UWP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BeeNotified\\Bee_Notified-master\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile.UWP\\BeeNotifiedMobile.UWP.csproj",
+        "projectName": "BeeNotifiedMobile.UWP",
+        "projectPath": "C:\\BeeNotified\\Bee_Notified-master\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile.UWP\\BeeNotifiedMobile.UWP.csproj",
+        "packagesPath": "C:\\Users\\jeter\\.nuget\\packages\\",
+        "outputPath": "C:\\BeeNotified\\Bee_Notified-master\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile.UWP\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jeter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {
+              "C:\\BeeNotified\\Bee_Notified-master\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile.csproj": {
+                "projectPath": "C:\\BeeNotified\\Bee_Notified-master\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.8.26, )"
+            },
+            "Microsoft.Azure.Mobile.Client": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.Azure.Mobile.Client.SQLiteStore": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.12, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Refractored.MvvmHelpers": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            },
+            "Syncfusion.Xamarin.SfCalendar": {
+              "target": "Package",
+              "version": "[18.4.0.49, )"
+            },
+            "Xam.Plugin.DeviceInfo": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            },
+            "Xamarin.Forms.Maps": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\BeeNotified\\Bee_Notified-master\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BeeNotified\\Bee_Notified-master\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile.csproj",
+        "projectName": "BeeNotifiedMobile",
+        "projectPath": "C:\\BeeNotified\\Bee_Notified-master\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile.csproj",
+        "packagesPath": "C:\\Users\\jeter\\.nuget\\packages\\",
+        "outputPath": "C:\\BeeNotified\\Bee_Notified-master\\BeeNotifiedMobile\\BeeNotifiedMobile\\BeeNotifiedMobile\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jeter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "DurianCode.PlacesSearchBar": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.8.26, )"
+            },
+            "Microsoft.Azure.Mobile.Client": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.Azure.Mobile.Client.SQLiteStore": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Refractored.MvvmHelpers": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            },
+            "Syncfusion.Xamarin.SfCalendar": {
+              "target": "Package",
+              "version": "[18.4.0.49, )"
+            },
+            "Xam.Plugin.DeviceInfo": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            },
+            "Xamarin.Forms.Maps": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            },
+            "Xamarin.Forms.PlacesSearchBar": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

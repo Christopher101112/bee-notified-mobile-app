@@ -1,0 +1,84 @@
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/bin/Debug/netstandard2.0/BeeNotifiedMobile.deps.json
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/bin/Debug/netstandard2.0/BeeNotifiedMobile.dll
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/bin/Debug/netstandard2.0/BeeNotifiedMobile.pdb
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/AdminPages/AdminPage.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/AdminPages/LogFilesPage.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/ClientPages/ClientAlerts.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/ClientPages/clientLocationPage.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/ClientPages/clientMainPage.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/JobCoachPages/AddEmployee.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/JobCoachPages/JobCoachLocationPage.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/JobCoachPages/JobCoachMainPage.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/JobCoachPages/JobCoachSendAlerts.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/Messaging/IncomingViewCell.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/Messaging/MainChatPage.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/Messaging/OutgoingViewCell.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/CalendarPage.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/locsamppage.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/LoginPage.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/SetEventDetail.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/ViewEvents.xaml.g.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.AssemblyInfoInputs.cache
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.AssemblyInfo.cs
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.csproj.CoreCompileInputs.cache
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.dll
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.pdb
+C:/Users/jeter/source/repos/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.csprojAssemblyReference.cache
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/bin/Debug/netstandard2.0/BeeNotifiedMobile.deps.json
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/bin/Debug/netstandard2.0/BeeNotifiedMobile.dll
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/bin/Debug/netstandard2.0/BeeNotifiedMobile.pdb
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/AdminPages/AdminPage.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/AdminPages/LogFilesPage.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/ClientPages/ClientAlerts.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/ClientPages/clientLocationPage.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/ClientPages/clientMainPage.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/JobCoachPages/AddEmployee.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/JobCoachPages/JobCoachLocationPage.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/JobCoachPages/JobCoachMainPage.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/JobCoachPages/JobCoachSendAlerts.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/Messaging/IncomingViewCell.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/Messaging/MainChatPage.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/Messaging/OutgoingViewCell.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/CalendarPage.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/locsamppage.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/LoginPage.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/SetEventDetail.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/ViewEvents.xaml.g.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.AssemblyInfoInputs.cache
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.AssemblyInfo.cs
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.csproj.CoreCompileInputs.cache
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/XamlC.stamp
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.dll
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.pdb
+C:/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.csprojAssemblyReference.cache
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/bin/Debug/netstandard2.0/BeeNotifiedMobile.deps.json
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/bin/Debug/netstandard2.0/BeeNotifiedMobile.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/bin/Debug/netstandard2.0/BeeNotifiedMobile.pdb
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.csprojAssemblyReference.cache
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/AdminPages/AdminPage.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/AdminPages/LogFilesPage.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/ClientPages/ClientAlerts.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/ClientPages/clientLocationPage.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/ClientPages/clientMainPage.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/JobCoachPages/AddEmployee.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/JobCoachPages/JobCoachLocationPage.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/JobCoachPages/JobCoachMainPage.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/JobCoachPages/JobCoachSendAlerts.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/Messaging/IncomingViewCell.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/Messaging/MainChatPage.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/Messaging/OutgoingViewCell.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/CalendarPage.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/locsamppage.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/LoginPage.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/SetEventDetail.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/SharedPages/ViewEvents.xaml.g.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.AssemblyInfoInputs.cache
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.AssemblyInfo.cs
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.csproj.CoreCompileInputs.cache
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.dll
+/Users/christopherpouch/Desktop/UAlbany/Spring 2021/BeeNotifiedApp/BeeNotifiedCode/BeeNotified/Bee_Notified-master/BeeNotifiedMobile/BeeNotifiedMobile/BeeNotifiedMobile/obj/Debug/netstandard2.0/BeeNotifiedMobile.pdb

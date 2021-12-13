@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{209FA716-A7AD-4095-BD70-C8710FC66FA7}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BeeNotifiedServer" expanded="True">
+            <Node name="BeeNotifiedServerService" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UserEntityController.cs" selected="True" />
+              </Node>
+              <Node name="DataObjects" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BeeNotifiedServerService PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,83 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ClientMainPage.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DurianCode.PlacesSearchBar" Version="2.0.1" />
+    <PackageReference Include="Humanizer" Version="2.8.26" />
+    <PackageReference Include="Microsoft.Azure.Mobile.Client.SQLiteStore" Version="4.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Refractored.MvvmHelpers" Version="1.6.2" />
+    <PackageReference Include="Syncfusion.Xamarin.SfCalendar" Version="18.4.0.49" />
+    <PackageReference Include="Xam.Plugin.DeviceInfo" Version="4.1.1" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
+    <PackageReference Include="Microsoft.Azure.Mobile.Client" Version="4.2.0" />
+    <PackageReference Include="Xamarin.Forms.Maps" Version="5.0.0.2012" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="MyPage.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="EmptyXmlFile.xml" />
+    <None Remove="Resources\name.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DatePage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <LogicalName>BeeNotifiedMobile.DatePage.xaml</LogicalName>
+    </None>
+    <None Update="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\name.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="AdminPages\LogFilesPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CalendarPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="clientMainPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="JobCoachMainPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="locsamppage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SetEventDetail.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SharedPages\ViewEvents.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AdminPages\AdminPage.xaml.cs">
+      <DependentUpon>AdminPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="ClientPages\ClientAlerts.xaml.cs">
+      <DependentUpon>ClientAlerts.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="JobCoachPages\JobCoachSendAlerts.xaml.cs">
+      <DependentUpon>JobCoachSendAlerts.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+</Project>

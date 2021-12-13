@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BeeNotifiedMobile.AdminPage"
+             Title ="Administrator Portal">
+  <!--xmlns:ffimageloadingsvg="clr-
+             namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms"
+             xmlns:ffimageloadingsvg1="clr-namespace:FFImageLoading.Svg.Forms;assembly=FFImageLoading.Svg.Forms">-->
+  <StackLayout Spacing="20">
+    <Image Source="logoName.png" HorizontalOptions="FillAndExpand"/>
+    <!--<ffimageloadingsvg1:SvgCachedImage WidthRequest="50" HeightRequest="50" 
+                Source="resource://BeeNotifiedMobile.Resources.name.svg"/>-->
+    <Label Text=""
+            HorizontalOptions="Center"/>
+    <Button Text="Add Profiles"
+            HorizontalOptions="Center"
+            Clicked="OnAddBtnClick" />
+    <Button Text="Job Coach Calendars"
+            HorizontalOptions="Center"
+            Clicked="OnCalBtnClick" />
+    <Button Text="View Log Files"
+            HorizontalOptions="Center"
+            Clicked="OnLogBtnClick" />
+    <!--<Button Text="Messages"
+            HorizontalOptions="Center"
+            Clicked="OnMesBtnClick" />
+    <Button Text="Alerts"
+            HorizontalOptions="Center"
+            Clicked="OnAleBtnClicked" />-->
+    
+    
+
+  </StackLayout>
+</ContentPage>

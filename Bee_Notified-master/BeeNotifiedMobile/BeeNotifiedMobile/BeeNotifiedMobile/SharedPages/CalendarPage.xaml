@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:syncfusion="clr-namespace:Syncfusion.SfCalendar.XForms;assembly=Syncfusion.SfCalendar.XForms"
+             xmlns:local="clr-namespace:BeeNotifiedMobile"
+             x:Class="BeeNotifiedMobile.CalendarPage" 
+             Title ="Calendar">
+  
+  <!--NavigationPage.HasNavigationBar="false"-->
+  <ContentPage.Content>
+    <ScrollView>
+      <Grid RowSpacing="0" ColumnSpacing="0">
+        <Grid.RowDefinitions>
+          <RowDefinition Height="*" />
+          <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        
+        <!--<Button Text="← Back" BackgroundColor="#7e7c4c" Clicked="OnBackPressed" HorizontalOptions="CenterAndExpand"/>-->
+
+        <syncfusion:SfCalendar x:Name="calendar" OnCalendarTapped="Handle_OnCalendarTapped" ViewMode="MonthView" ShowInlineEvents="true" InlineViewMode="Agenda" MaximumEventIndicatorCount="1" DataSource="{Binding CalendarInlineEvents}">
+
+          <syncfusion:SfCalendar.BindingContext>
+
+            <local:CalModView/>
+
+          </syncfusion:SfCalendar.BindingContext>
+
+        </syncfusion:SfCalendar>
+
+
+        <StackLayout Orientation="Horizontal" Grid.Row="1" Spacing="20" HorizontalOptions="Center">
+          <Button x:Name ="add_event" Text ="Add Event" Clicked="OnAddEvent" />
+          <Button x:Name ="view_all" Text ="View Events" Clicked="OnViewEvents"/>
+        </StackLayout>
+      </Grid>
+
+        
+      
+      
+    </ScrollView>
+</ContentPage.Content>
+</ContentPage>

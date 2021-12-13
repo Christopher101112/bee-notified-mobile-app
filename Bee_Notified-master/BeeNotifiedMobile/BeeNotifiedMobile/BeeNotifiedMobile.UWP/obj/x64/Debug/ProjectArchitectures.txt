@@ -1,0 +1,1 @@
+C:\dev\Bee_Notified-master\BeeNotifiedMobile\BeeNotifiedMobile\BeeNotifiedMobile.UWP\BeeNotifiedMobile.UWP.csproj;x64
