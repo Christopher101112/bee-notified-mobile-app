@@ -6,7 +6,7 @@ Contributors: Alec Comley, Jorge Gomez, Tabor Nelson, Jeffery Ng, Christopher Po
 OVERVIEW
 
 Bee Notified is a cross-platform assistance app designed to help people with disabilities maintain employment. It is designed to 
-allow PWDs (persons with disabilities) to message and share location and schedule data with their mentors. The mentors
+allow PWDs to message and share location and schedule data with their mentors. The mentors
 receive alerts if the PWD does not make it to work on time (based on their location and schedule data), and the PWD receives 
 reminders about upcoming schedule events.
 
